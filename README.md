@@ -14,7 +14,9 @@ API and workers, a Next.js dashboard and two MCP servers — architecture to pro
 
 ### Open source
 - [**team-bootstrap**](https://github.com/polischuks/team-bootstrap) — role-based AI delivery framework for coding agents: pipelines, an independent verifier, hook-enforced guardrails, OpenTelemetry tracing and an eval harness.
-- [**hs-test-web**](https://github.com/polischuks/hs-test-web) — a small framework for testing educational web projects.
+
+### Open-source contributions
+- Hyperskill's testing frameworks — [hs-test](https://github.com/hyperskill/hs-test) (Java/Kotlin), [hs-test-python](https://github.com/hyperskill/hs-test-python), [hs-gradle-plugin](https://github.com/hyperskill/hs-gradle-plugin).
 
 ### Elsewhere
 - 🌍 Site: https://polischuk.dev
